@@ -1,6 +1,5 @@
+import OrdersList from "../components/orders/OrdersList";
 
-const AllOrders = () => {
-
-}
+const AllOrders = () => <OrdersList />
 
 export default AllOrders;
